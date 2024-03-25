@@ -2047,11 +2047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
+      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
       "projectName": "HARS.Application.WebApi",
-      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
+      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
       "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.WebApi\\obj\\",
+      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2068,8 +2068,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {
-              "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj"
+            "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {
+              "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj"
             }
           }
         }

@@ -239,11 +239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
+      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
       "projectName": "HARS.Application.LLBLDBSpecific",
-      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
+      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
       "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\obj\\",
+      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",

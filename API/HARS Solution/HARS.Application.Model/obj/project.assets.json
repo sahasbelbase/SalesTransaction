@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
+      "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
       "projectName": "HARS.Application.Model",
-      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
+      "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
       "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\obj\\",
+      "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",

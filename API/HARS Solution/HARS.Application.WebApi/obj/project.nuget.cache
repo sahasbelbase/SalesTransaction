@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QPGGl3dNZIlM8IIo+4G5RmjomrV8G9bWhiH42WncnmOM7e+5QUhlBwJ9fFrehybkkkO/qSptV/HuBot0aDtMbA==",
+  "dgSpecHash": "jO7x3ZxZZJ+gefkMcaNTfc/r5C5A8SCrho3Zpt9eLsf6jRZdEUH02eOUNXyZLeMEPQiAXhulDAodqWxT579BbQ==",
   "success": true,
-  "projectFilePath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
+  "projectFilePath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.WebApi\\HARS.Application.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Delta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Delta\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HARS.Application.Model
-build_property.ProjectDir = C:\drive d\Drive C\Desktop\Meterials\Coding\HARS\API\HARS Solution\HARS.Application.Model\
+build_property.ProjectDir = C:\drive d\Drive C\Desktop\Meterials\Coding\SalesTransaction\API\HARS Solution\HARS.Application.Model\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

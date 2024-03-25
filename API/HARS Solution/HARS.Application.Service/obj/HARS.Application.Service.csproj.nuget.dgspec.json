@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {}
+    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {}
   },
   "projects": {
-    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj": {
+    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
+        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
         "projectName": "HARS.Application.LLBLDBSpecific",
-        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
+        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj",
         "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\obj\\",
+        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj": {
+    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
+        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
         "projectName": "HARS.Application.Model",
-        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
+        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj",
         "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\obj\\",
+        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {
+    "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj",
+        "projectUniqueName": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj",
         "projectName": "HARS.Application.Service",
-        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj",
+        "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj",
         "packagesPath": "C:\\Users\\Delta\\.nuget\\packages\\",
-        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Service\\obj\\",
+        "outputPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Delta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,11 +145,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj": {
-                "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj"
+              "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj": {
+                "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\DatabaseSpecific\\HARS.Application.LLBLDBSpecific.csproj"
               },
-              "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj": {
-                "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\HARS\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj"
+              "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj": {
+                "projectPath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Model\\HARS.Application.Model.csproj"
               }
             }
           }
