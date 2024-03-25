@@ -1,0 +1,31 @@
+<mat-toolbar class="custom-toolbar" color="primary">
+  <button (click)="toggleLeftDrawer()" mat-icon-button class="example-icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span class="toolbar-title">Sales Transactions</span>
+  <span class="spacer"></span>
+  <button mat-raised-button color="danger" (click)="logout()">logout</button>
+</mat-toolbar>
+
+<mat-drawer-container class="container" autosize>
+  <mat-drawer #leftDrawer class="sidenav left-drawer" mode="side">
+    <mat-nav-list>
+      <a
+        routerLinkActive="mat-primary"
+        routerLink="{{ item.url }}"
+        *ngFor="let item of navigationList"
+        mat-list-item
+      >
+        <mat-icon>{{ item.icon }}</mat-icon>
+        <span>{{ item.name }}</span>
+      </a>
+    </mat-nav-list>
+    <button (click)="toggleLeftDrawer()" mat-icon-button class="close-button">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-drawer>
+
+  <mat-drawer-content>
+    <router-outlet></router-outlet>
+  </mat-drawer-content>
+</mat-drawer-container>

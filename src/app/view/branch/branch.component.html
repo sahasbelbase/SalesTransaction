@@ -1,0 +1,30 @@
+<table class="table" border="1">
+    <thead>
+      <tr>
+        <th>Branch Name</th>
+        <th>Address</th>
+        <th>Action</th>
+  
+        <!-- Added action column -->
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of branchList">
+        <td>{{ item.branchName }}</td>
+        <td>{{ item.address }}</td>
+
+        <td>
+  
+  
+          <button (click)="edit(item)"><mat-icon>edit</mat-icon></button>
+  
+  
+          <button mat-icon-button color="primary" (click)="delete(item)">
+            <mat-icon>delete</mat-icon>
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table> 
+  
+  <button (click)="add()"><mat-icon> add</mat-icon></button>

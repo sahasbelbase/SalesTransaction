@@ -1,0 +1,23 @@
+<form>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Department Name</mat-label>
+        <input matInput placeholder="Department Name"  name="departmentName"[(ngModel)]="formObject.departmentName">
+        
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Branch Name</mat-label>
+        <input matInput placeholder="Branch Name"  name="branchName"[(ngModel)]="formObject.branchName">
+        
+      </mat-form-field>
+    </p>
+    
+  
+  </form>
+  {{formObject | json}}
+  <button (click)="save()">save</button>
+  
+  <button [mat-dialog-close]>close</button>
+  

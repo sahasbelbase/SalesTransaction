@@ -1,0 +1,22 @@
+<table class="table" border="1">
+  <thead>
+    <tr>
+      <th>Store Name</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of storeList">
+      <td>{{ item.storeName }}</td>
+      <td>
+        <button (click)="edit(item)"><mat-icon>edit</mat-icon></button>
+
+        <button mat-icon-button color="primary" (click)="delete(item)">
+          <mat-icon>delete</mat-icon>
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<button (click)="add()"><mat-icon> add</mat-icon></button>

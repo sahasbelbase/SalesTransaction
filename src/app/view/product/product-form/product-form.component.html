@@ -1,0 +1,50 @@
+<form>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Product Name</mat-label>
+        <input matInput placeholder="Product Name"  name="productName"[(ngModel)]="formObject.productName">
+        
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Product Description</mat-label>
+        <input matInput placeholder="Product Description"  name="productDescription"[(ngModel)]="formObject.productDescription">
+        
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Product Price</mat-label>
+        <input matInput placeholder="Product Price"  name="productPrice"[(ngModel)]="formObject.productPrice">
+        
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="fill">
+        <mat-label>Department Name</mat-label>
+        <input matInput placeholder="Department Name"  name="departmentName" [(ngModel)]="formObject.departmentName">
+        
+      </mat-form-field>
+    </p>
+    <p>
+        <mat-form-field appearance="fill">
+          <mat-label>InventoryId</mat-label>
+          <input matInput placeholder="Inventory Id"  name="inventoryId" [(ngModel)]="formObject.inventoryId">
+          
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field appearance="fill">
+          <mat-label>Expiry Date</mat-label>
+          <input matInput placeholder="Expiry Date"  name="expiryDate" [(ngModel)]="formObject.expiryDate">
+          
+        </mat-form-field>
+      </p>
+  
+  </form>
+  {{formObject | json}}
+  <button (click)="save()">save</button>
+  
+  <button [mat-dialog-close]>close</button>
+  
