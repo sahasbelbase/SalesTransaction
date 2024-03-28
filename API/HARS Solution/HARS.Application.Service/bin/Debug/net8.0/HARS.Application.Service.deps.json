@@ -1,0 +1,83 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HARS.Application.Service/1.0.0": {
+        "dependencies": {
+          "HARS.Application.LLBLDBSpecific": "1.0.0",
+          "HARS.Application.Model": "1.0.0"
+        },
+        "runtime": {
+          "HARS.Application.Service.dll": {}
+        }
+      },
+      "SD.LLBLGen.Pro.DQE.SqlServer/5.9.0": {
+        "dependencies": {
+          "SD.LLBLGen.Pro.ORMSupportClasses": "5.9.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SD.LLBLGen.Pro.DQE.SqlServer.dll": {
+            "assemblyVersion": "5.9.0.0",
+            "fileVersion": "5.9.0.0"
+          }
+        }
+      },
+      "SD.LLBLGen.Pro.ORMSupportClasses/5.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/SD.LLBLGen.Pro.ORMSupportClasses.dll": {
+            "assemblyVersion": "5.9.0.0",
+            "fileVersion": "5.9.0.0"
+          }
+        }
+      },
+      "HARS.Application.LLBLDBSpecific/1.0.0": {
+        "dependencies": {
+          "SD.LLBLGen.Pro.DQE.SqlServer": "5.9.0"
+        },
+        "runtime": {
+          "HARS.Application.LLBLDBSpecific.dll": {}
+        }
+      },
+      "HARS.Application.Model/1.0.0": {
+        "runtime": {
+          "HARS.Application.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HARS.Application.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SD.LLBLGen.Pro.DQE.SqlServer/5.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WNo64CcXQaIgBHTRt5rnOeMlFKLFZpM4gGTFth4a3JykcLH0vM6ZJRLrj88y12pPZZ4IW7DlJODcCG2C3hcsug==",
+      "path": "sd.llblgen.pro.dqe.sqlserver/5.9.0",
+      "hashPath": "sd.llblgen.pro.dqe.sqlserver.5.9.0.nupkg.sha512"
+    },
+    "SD.LLBLGen.Pro.ORMSupportClasses/5.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xtMwEU8ysTp+T5CoSB2c6Lgz4xSSbyXhK0UNbCGgT0CzI5aImuiK2BHeKJKoGPJ+Spahw1Dk6OuZs8p6P7+56Q==",
+      "path": "sd.llblgen.pro.ormsupportclasses/5.9.0",
+      "hashPath": "sd.llblgen.pro.ormsupportclasses.5.9.0.nupkg.sha512"
+    },
+    "HARS.Application.LLBLDBSpecific/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HARS.Application.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

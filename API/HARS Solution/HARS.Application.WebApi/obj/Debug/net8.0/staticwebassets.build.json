@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xtmKyZyROFN3QXurAM4Tga+v01VF26NZitVm7llguLs=",
+  "Source": "HARS.Application.WebApi",
+  "BasePath": "_content/HARS.Application.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

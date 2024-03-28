@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JhXhJvJN7axEpyhfU5UjK/xWIvEVGeVJyFyi94qZcYns5qFFe93+jJPceBKGH+yXKqoNcmj0DRDKL99v8oKeQ==",
+  "success": true,
+  "projectFilePath": "C:\\drive d\\Drive C\\Desktop\\Meterials\\Coding\\SalesTransaction\\API\\HARS Solution\\HARS.Application.Service\\HARS.Application.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delta\\.nuget\\packages\\sd.llblgen.pro.dqe.sqlserver\\5.9.0\\sd.llblgen.pro.dqe.sqlserver.5.9.0.nupkg.sha512",
+    "C:\\Users\\Delta\\.nuget\\packages\\sd.llblgen.pro.ormsupportclasses\\5.9.0\\sd.llblgen.pro.ormsupportclasses.5.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
